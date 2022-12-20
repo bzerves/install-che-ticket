@@ -39,9 +39,9 @@ clear
 
   printf "${GREEN}";
 printf ${GREEN}"█████  █    █   █████       \n";
-printf ${GREEN}"██       █    █   █             \n";
-printf ${GREEN}"██       ████   ███\n";
-printf ${GREEN}"██       █    █   █\n";
+printf ${GREEN}"██     █    █   █             \n";
+printf ${GREEN}"██     ██████   ███\n";
+printf ${GREEN}"██     █    █   █\n";
 printf ${GREEN}"█████  █    █   █████  \n";
 printf ${GREEN}"   \n";
 printf "${GREEN}";
